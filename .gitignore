@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Sensitive user credentials
+users.json
+
+# Large runtime prediction logs
+history.json
+
+# Backups
+*copy*
+*.tmp
